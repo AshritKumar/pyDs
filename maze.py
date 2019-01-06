@@ -1,3 +1,4 @@
+# Rat in a Maze
 N=5
 steps=0
 ##Function to check if move is safe
